@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string-array name="title_array">
+        <item>第1个</item>
+        <item>第2个</item>
+        <item>第3个</item>
+        <item>第4个</item>
+        <item>第5个</item>
+        <item>第6个</item>
+    </string-array>
+    <string-array name="download_array">
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+        <item>http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf</item>
+    </string-array>
+</resources>
